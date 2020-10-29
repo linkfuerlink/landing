@@ -1,0 +1,13 @@
+.btn-medium {
+  text-decoration: none;
+  border: 1px solid black;
+  border-radius: 4px;
+  padding: 8px 16px;
+  color: black;
+  transition: .5s;
+  display: inline-block;
+}
+
+.btn-medium:hover {
+  opacity: 0.5;
+}
